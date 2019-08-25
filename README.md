@@ -29,6 +29,19 @@ The Name Of The Project Is Love Calculator Prank It is Written in PHP By Me It i
 <br/>Step 3- Edit The db.php file and check the connection with db
 <br/>Step 4- Edit The app.php file and find if there is any url like example.com replace with your site url (Maybe You Have To Change Or Maybe Not The Code May Get Updated Soon)
 <br/>Step 5- Boom That's It You Setup Your Own Love Calculator 
+<hr>
+# Screenshots & Overview
+<h3>Homepage</h3>
+<img src='https://i.imgur.com/oELuQyK.png'><img> <br>
+<h3> Authorized User View page</h3>
+<img src='https://imgur.com/fAyzKTs.png'><img> <br>
+<h3>  UnAuthorized User View Page</h3>
+<img src='https://imgur.com/CUwHBkT.png'><img><br>
+<h3> Authorized User View Page With Data </h3>
+<img src='https://imgur.com/HrL97FV.png'><img><br>
+<h3>  UnAuthorized User Final View Page </h3>
+<img src='https://imgur.com/cdvHhle.png'><img> <br>
+
 # Check The Code In Action 
 Live Url - https://playlovegame.ml/
 # Any Bugs Or Fixes 
@@ -39,3 +52,4 @@ Please Contact - <br>blogwithvansh@gmail.com (Primary)
 <br> Twitter - <a href='https://www.twitter.com/vanshdevgans'>Vansh Devgan</a>
 <br> Instagram - <a href='www.instagram.com/vanshdevgan'>Vansh Devgan</a>
 <br> Linkedin - <a href='https://www.linkedin.com/in/vanshdevgan/'>Vansh Devgan</a>
+
