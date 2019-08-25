@@ -40,7 +40,7 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`ID`, `secret`, `username`, `userid`) VALUES
-(1, 'k0wa7nohj', 'Fuck8564', 'k0wa7nohs'),
+(1, 'k0wa7nohj', 'ABC', 'k0wa7nohs'),
 (2, '93tt047es', 'Vansh', '0m44qtx9h'),
 (3, 'o0lr56ne1', 'Vansh', 'i5vu54u95'),
 (4, '66juaj87r', 'Vansh', 'six3hgowk'),
@@ -49,11 +49,7 @@ INSERT INTO `users` (`ID`, `secret`, `username`, `userid`) VALUES
 (7, 'j441b4t53', 'Vansh', '2010wyxr7'),
 (8, 'j441b4t53', 'Vansh', '2010wyxr7'),
 (9, 'ls5t9d17e', 'Vansh', 'dgl9xg350'),
-(10, 'e2qpp4ai5', 'Vansh', '23m0ojvul'),
-(11, 'kpack287e', 'Vansh', '34oi0nq8m'),
-(12, '0o9ss80l4', 'Ishu', '41syu013g'),
-(13, '3c35bcz24', 'Love', 'ch4250720'),
-(14, 'fnr27nynb', 'Ishita', 'sc399658i');
+(10, 'e2qpp4ai5', 'Vansh', '23m0ojvul');
 
 -- --------------------------------------------------------
 
@@ -72,13 +68,7 @@ CREATE TABLE `usersdata` (
 --
 
 INSERT INTO `usersdata` (`secret`, `victim`, `crush`) VALUES
-('u998b5257', 'Vansh', 'Dvegan'),
-('u998b5257', 'Lund', 'Lunds'),
-('u998b5257', 'Fcl', 'sdf'),
-('j441b4t53', 'Vansh ', 'Ishita'),
-('e2qpp4ai5', 'Vansh', 'Devgan'),
-('0o9ss80l4', '', ''),
-('0o9ss80l4', 'Ishu', 'Vansh');
+('u998b5257', 'Vansh', 'Dvegan');
 
 --
 -- Indexes for dumped tables
