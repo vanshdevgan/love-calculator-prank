@@ -1,0 +1,7 @@
+[13-Aug-2019 20:21:01 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'vanshd_root'@'localhost' to database 'vanshd_lovevquizz' in /home/vanshd/public_html/voting2k19.tk/db.php on line 2
+[13-Aug-2019 20:21:50 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'vanshd_root'@'localhost' to database 'vanshd_lovevquizz' in /home/vanshd/public_html/voting2k19.tk/db.php on line 2
+[13-Aug-2019 20:22:24 UTC] PHP Notice:  Undefined variable: nsecret in /home/vanshd/public_html/voting2k19.tk/lovecalc.php on line 24
+[13-Aug-2019 22:12:21 UTC] PHP Notice:  Undefined variable: nsecret in /home/vanshd/public_html/voting2k19.tk/lovecalc.php on line 24
+[13-Aug-2019 22:12:22 UTC] PHP Notice:  Undefined variable: wpurl in /home/vanshd/public_html/voting2k19.tk/dashboard.php on line 56
+[13-Aug-2019 22:18:38 UTC] PHP Notice:  Undefined variable: finalurl in /home/vanshd/public_html/voting2k19.tk/dashboard.php on line 126
+[13-Aug-2019 22:32:22 UTC] PHP Notice:  Undefined variable: nsecret in /home/vanshd/public_html/voting2k19.tk/lovecalc.php on line 24
