@@ -29,4 +29,11 @@ The Name Of The Project Is Love Calculator Prank It is Written in PHP By Me It i
 <br/>Step 3- Edit The db.php file and check the connection with db
 <br/>Step 4- Edit The app.php file and find if there is any url like example.com replace with your site url (Maybe You Have To Change Or Maybe Not The Code May Get Updated Soon)
 <br/>Step 5- Boom That's It You Setup Your Own Love Calculator 
-
+# Any Bugs Or Fixes 
+Please Contact - <br>blogwithvansh@gmail.com (Primary)
+<br> vanshdevgans@gmail.com 
+# Follow Me On Social Media
+<br> Facebook - <a href='https://www.facebook.com/vanshdevgan0221'>Vansh Devgan</a>
+<br> Twitter - <a href='https://www.twitter.com/vanshdevgans'>Vansh Devgan</a>
+<br> Instagram - <a href='www.instagram.com/vanshdevgan'>Vansh Devgan</a>
+<br> Linkedin - <a href='https://www.linkedin.com/in/vanshdevgan/'>Vansh Devgan</a>
