@@ -29,6 +29,8 @@ The Name Of The Project Is Love Calculator Prank It is Written in PHP By Me It i
 <br/>Step 3- Edit The db.php file and check the connection with db
 <br/>Step 4- Edit The app.php file and find if there is any url like example.com replace with your site url (Maybe You Have To Change Or Maybe Not The Code May Get Updated Soon)
 <br/>Step 5- Boom That's It You Setup Your Own Love Calculator 
+# Check The Code In Action 
+Live Url - https://playlovegame.ml/
 # Any Bugs Or Fixes 
 Please Contact - <br>blogwithvansh@gmail.com (Primary)
 <br> vanshdevgans@gmail.com 
