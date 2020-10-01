@@ -23,7 +23,7 @@ The Name Of The Project Is Love Calculator Prank It is Written in PHP By Me It i
 <br/>4-Get & Post Requests
 <br/>5-API Fetching For Shortlinks
 <br/>6-MIND (Most Important)
-# How To Implement
+# How To Implement the code
 <br/>Step 1- Simply Upload The Files Onto Server Using FTP 
 <br/>Step 2- Create Database & Import The File db.sql 
 <br/>Step 3- Edit The db.php file and check the connection with db
@@ -47,7 +47,7 @@ Live Url - https://playlovegame.ml/
 # Any Bugs Or Fixes 
 Please Contact - <br>blogwithvansh@gmail.com (Primary)
 <br> vanshdevgans@gmail.com 
-# Follow Me On Social Media
+# Follow Me On your place
 <br> Facebook - <a href='https://www.facebook.com/vanshdevgan0221'>Vansh Devgan</a>
 <br> Twitter - <a href='https://www.twitter.com/vanshdevgans'>Vansh Devgan</a>
 <br> Instagram - <a href='www.instagram.com/vanshdevgan'>Vansh Devgan</a>
