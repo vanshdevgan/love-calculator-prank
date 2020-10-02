@@ -24,11 +24,11 @@ The Name Of The Project Is Love Calculator Prank It is Written in PHP By Me It i
 <br/>5-API Fetching For Shortlinks
 <br/>6-MIND (Most Important)
 # How To Implement
-<br/>Step 1- Simply Upload The Files Onto Server Using FTP 
-<br/>Step 2- Create Database & Import The File db.sql 
-<br/>Step 3- Edit The db.php file and check the connection with db
+<br/>Step 1- Simply Upload The Files Onto Server Using FTP.
+<br/>Step 2- Create Database & Import The File db.sql. 
+<br/>Step 3- Edit The db.php file and check the connection with db.
 <br/>Step 4- Edit The app.php file and find if there is any url like example.com replace with your site url (Maybe You Have To Change Or Maybe Not The Code May Get Updated Soon)
-<br/>Step 5- Boom That's It You Setup Your Own Love Calculator 
+<br/>Step 5- Boom That's It You Setup Your Own Love Calculator. 
 <hr>
 # Screenshots & Overview
 <h3>Homepage</h3>
