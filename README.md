@@ -8,8 +8,8 @@ The Name Of The Project Is Love Calculator Prank It is Written in PHP By Me It i
 <br/>3-The Cookie Has Also Been Created With The Values Of secretid and userid to differntiate in these views a person having these cookies gonna have authorized view as long as they have cookie in there browser also the page renders a shortlink which users can share with there friends the shortlink has been created using an third party api the api uses <b>$finalurl.'?'.$_COOKIE['userid'] </b>these variables to create short link 
 <br/>4-When User Share The Link & Victim Visits The Link Name Of Ther Person(WHo Created The Link) Will Be Reflected (Because Of Get Paramterer In User Id)In Unauthroized View Where Vicitm Can ENter His Crush Name & His Name 
 <br/>&nbsp;&nbsp;&nbsp;&nbsp;5- There Are Three Fields In Total  & one submit button
-  <br/>&nbsp;&nbsp;&nbsp;&nbsp;5.1-Your Name- It Is Visible Field Victim Can Enter His Name.
-  <br/>&nbsp;&nbsp;&nbsp;&nbsp;5.2-Crush Name - It is Visibile Field Victim Can Enter His Crush Name.
+  <br/>&nbsp;&nbsp;&nbsp;&nbsp;5.1-Your Name- It Is Visible Field Victim Can Enter His Name
+  <br/>&nbsp;&nbsp;&nbsp;&nbsp;5.2-Crush Name - It is Visibile Field Victim Can Enter His Crush Name
   <br/>&nbsp;&nbsp;&nbsp;&nbsp;5.3-secretid- it is not visible field and it has default value fetched from get paramter in the request by which this unauth page has been rendered and that paramter is userid 
   <br/>&nbsp;&nbsp;&nbsp;&nbsp;5.4-Calculate Love Button- This Button Sends Data In Another Table Having Two Columns Secretid and message in which every secret id has one corresponding column named messages
 <br/>5- Now If Authorized Users Go To https://example.com/ the php script checks for cookie if it is there then it redirects to https://example.com/index.php?userid=genrateduserid and there as he is authorized there the messages having secret id he genrated will be rendered hence the Victim Name & Cursh Name Will Be Rendered 
@@ -49,8 +49,8 @@ Live Url - https://playlovegame.ml/
 Please Contact - <br>blogwithvansh@gmail.com (Primary)
 <br> vanshdevgans@gmail.com 
 # Follow Me On your place
-<br> Facebook - <a href='https://www.facebook.com/vanshdevgan0221'>Vansh Devgan</a>
-<br> Twitter - <a href='https://www.twitter.com/vanshdevgans'>Vansh Devgan</a>
-<br> Instagram - <a href='www.instagram.com/vanshdevgan'>Vansh Devgan</a>
-<br> Linkedin - <a href='https://www.linkedin.com/in/vanshdevgan/'>Vansh Devgan</a>
+<br> Facebook - <a href='https://www.facebook.com/vanshdevgan0221'>LUCIFER</a>
+<br> Twitter - <a href='https://www.twitter.com/vanshdevgans'>LUCIFER</a>
+<br> Instagram - <a href='www.instagram.com/vanshdevgan'>LUCIFER</a>
+<br> Linkedin - <a href='https://www.linkedin.com/in/vanshdevgan/'>LUCIFER</a>
 
