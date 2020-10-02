@@ -1,5 +1,5 @@
 # love-calculator-prank
-The Name Of The Project Is Love Calculator Prank It is Written in PHP by me. It is a clone of https://quiz.playing.com I have taken the frontend from there site and implemented the backend in core PHP using the basic or advance PHP skills I know 
+The Name Of The Project Is Love Calculator Prank It is Written in PHP by me. It is a clone of https://quiz.playing.com I have taken the frontend from there site and implemented the backend in core PHP using the basic or advance PHP skills I know that
 # How It Works - Tried To Explain How This PHP SCRIPT WORK 
 1-When User Enter His Her Name In Input Field There Is Two Hidden Input Field Which Has Randomly Generated Value I Call This Value Known As secreted and userid, when user submits  the data, got inserted into DB in the corresponding column with name, secretid,userid .<br/>
 2- After Submitting The Data In DB The Page sends the get request to https://example.com/index.php?userid=genrateduserid now it's an interesting page this page has two views 
