@@ -49,7 +49,7 @@ INSERT INTO `users` (`ID`, `secret`, `username`, `userid`) VALUES
 (7, 'j441b4t53', 'Vansh', '2010wyxr7'),
 (8, 'j441b4t53', 'Vansh', '2010wyxr7'),
 (9, 'ls5t9d17e', 'Vansh', 'dgl9xg350'),
-(10, 'e2qpp4ai5', 'Vansh', '23m0ojvul');
+(10, 'e2qpp4ai5', 'Devgan', '65p0onvtl');
 
 -- --------------------------------------------------------
 
