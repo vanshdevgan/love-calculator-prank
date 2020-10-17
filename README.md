@@ -30,11 +30,11 @@ It is just a game don't take it seriously XD.
 
 # How To Implement
 
-<br/>Step 1- Simply Upload The Files Onto Server Using FTP 
+<br/><b>Step 1- Simply Upload The Files Onto Server Using FTP 
 <br/>Step 2- Create Database & Import The File db.sql 
 <br/>Step 3- Edit The db.php file and check the connection with DB
 <br/>Step 4- Edit The app.php file and find if there is any URL like example.com replace with your site URL (Maybe You Have To Change Or Maybe Not The Code May Get Updated Soon)
-<br/>Step 5- It You Setup Your Own Love Calculator 
+<br/>Step 5- It You Setup Your Own Love Calculator </b>
 
 <hr>
 
