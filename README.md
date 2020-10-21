@@ -1,6 +1,6 @@
 # love-calculator-prank
 
-The Name Of The Project Is Love Calculator Prank It is Written in PHP by me. It is a clone of https://quiz.playing.com I have taken the frontend from there site and implemented the backend in core PHP using the basic or advance PHP skills which I know that.
+The Name Of The Project Is Love Calculator Prank It is Written in PHP by me. It is a clone of https://quiz.playing.com I have taken the frontend from there site and implemented the backend in core PHP using the basic or advance PHP skills which I know at my best.
 It is just a game don't take it seriously XD.
 
 # How It Works - Tried To Explain How This PHP SCRIPT WORK 
