@@ -60,10 +60,10 @@ Please Contact - <br>blogwithvansh@gmail.com (Primary)
 Enjoy!! 
 
 # Follow Me On your place
-<br> Facebook - <a href='https://www.facebook.com/vanshdevgan0221'>LUCIFER</a>
-<br> Twitter - <a href='https://www.twitter.com/vanshdevgans'>LUCIFER</a>
-<br> Instagram - <a href='www.instagram.com/vanshdevgan'>LUCIFER</a>
-<br> Linkedin - <a href='https://www.linkedin.com/in/vanshdevgan/'>LUCIFER</a>
+<br> Facebook - <a href='https://www.facebook.com/vanshdevgan0221'>Click Here</a>
+<br> Twitter - <a href='https://www.twitter.com/vanshdevgans'>Click Here</a>
+<br> Instagram - <a href='www.instagram.com/vanshdevgan'>Click Here</a>
+<br> Linkedin - <a href='https://www.linkedin.com/in/vanshdevgan/'>Click Here</a>
 
 # Project By
 <br> VanshDevgan
