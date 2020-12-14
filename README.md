@@ -50,7 +50,7 @@ The Name Of The Project Is Love Calculator Prank It is Written in PHP by me. It 
 <img src='https://imgur.com/cdvHhle.png'><img> <br>
 
 # Check The Code In Action 
-Live Url - https://playlovegame.ml/
+Live Url - https://lovegame.vanshdevgan.com
 
 # Any Bugs Or Fixes 
 Please Contact - <br>blogwithvansh@gmail.com (Primary)
